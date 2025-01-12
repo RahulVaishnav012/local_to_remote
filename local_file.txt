@@ -1,4 +1,8 @@
 This update is inside the FEATURE-1 branch
 
 Now, you can see that our main branch's "local_file.txt" and feature1 branch's "local_file.txt" both have different content
+<<<<<<< HEAD
 Merge (Dropdown)
+=======
+Merge (Button)
+>>>>>>> main
